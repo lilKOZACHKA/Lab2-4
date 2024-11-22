@@ -1,0 +1,33 @@
+C:\Users\sidor\OneDrive\Рабочий стол\Илена Дмитриевна\LabsShareLibrary\bin\Debug\net8.0\LabsShareLibrary.deps.json
+C:\Users\sidor\OneDrive\Рабочий стол\Илена Дмитриевна\LabsShareLibrary\bin\Debug\net8.0\LabsShareLibrary.dll
+C:\Users\sidor\OneDrive\Рабочий стол\Илена Дмитриевна\LabsShareLibrary\bin\Debug\net8.0\LabsShareLibrary.pdb
+C:\Users\sidor\OneDrive\Рабочий стол\Илена Дмитриевна\LabsShareLibrary\obj\Debug\net8.0\LabsShareLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidor\OneDrive\Рабочий стол\Илена Дмитриевна\LabsShareLibrary\obj\Debug\net8.0\LabsShareLibrary.AssemblyInfoInputs.cache
+C:\Users\sidor\OneDrive\Рабочий стол\Илена Дмитриевна\LabsShareLibrary\obj\Debug\net8.0\LabsShareLibrary.AssemblyInfo.cs
+C:\Users\sidor\OneDrive\Рабочий стол\Илена Дмитриевна\LabsShareLibrary\obj\Debug\net8.0\LabsShareLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sidor\OneDrive\Рабочий стол\Илена Дмитриевна\LabsShareLibrary\obj\Debug\net8.0\LabsShareLibrary.dll
+C:\Users\sidor\OneDrive\Рабочий стол\Илена Дмитриевна\LabsShareLibrary\obj\Debug\net8.0\refint\LabsShareLibrary.dll
+C:\Users\sidor\OneDrive\Рабочий стол\Илена Дмитриевна\LabsShareLibrary\obj\Debug\net8.0\LabsShareLibrary.pdb
+C:\Users\sidor\OneDrive\Рабочий стол\Илена Дмитриевна\LabsShareLibrary\obj\Debug\net8.0\ref\LabsShareLibrary.dll
+C:\Users\sidor\OneDrive\Рабочий стол\Елена Дмитриевна\LabsShareLibrary\bin\Debug\net8.0\LabsShareLibrary.deps.json
+C:\Users\sidor\OneDrive\Рабочий стол\Елена Дмитриевна\LabsShareLibrary\bin\Debug\net8.0\LabsShareLibrary.dll
+C:\Users\sidor\OneDrive\Рабочий стол\Елена Дмитриевна\LabsShareLibrary\bin\Debug\net8.0\LabsShareLibrary.pdb
+C:\Users\sidor\OneDrive\Рабочий стол\Елена Дмитриевна\LabsShareLibrary\obj\Debug\net8.0\LabsShareLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidor\OneDrive\Рабочий стол\Елена Дмитриевна\LabsShareLibrary\obj\Debug\net8.0\LabsShareLibrary.AssemblyInfoInputs.cache
+C:\Users\sidor\OneDrive\Рабочий стол\Елена Дмитриевна\LabsShareLibrary\obj\Debug\net8.0\LabsShareLibrary.AssemblyInfo.cs
+C:\Users\sidor\OneDrive\Рабочий стол\Елена Дмитриевна\LabsShareLibrary\obj\Debug\net8.0\LabsShareLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sidor\OneDrive\Рабочий стол\Елена Дмитриевна\LabsShareLibrary\obj\Debug\net8.0\LabsShareLibrary.dll
+C:\Users\sidor\OneDrive\Рабочий стол\Елена Дмитриевна\LabsShareLibrary\obj\Debug\net8.0\refint\LabsShareLibrary.dll
+C:\Users\sidor\OneDrive\Рабочий стол\Елена Дмитриевна\LabsShareLibrary\obj\Debug\net8.0\LabsShareLibrary.pdb
+C:\Users\sidor\OneDrive\Рабочий стол\Елена Дмитриевна\LabsShareLibrary\obj\Debug\net8.0\ref\LabsShareLibrary.dll
+C:\Users\sidor\OneDrive\Рабочий стол\Лаба2\LabsShareLibrary\bin\Debug\net8.0\LabsShareLibrary.deps.json
+C:\Users\sidor\OneDrive\Рабочий стол\Лаба2\LabsShareLibrary\bin\Debug\net8.0\LabsShareLibrary.dll
+C:\Users\sidor\OneDrive\Рабочий стол\Лаба2\LabsShareLibrary\bin\Debug\net8.0\LabsShareLibrary.pdb
+C:\Users\sidor\OneDrive\Рабочий стол\Лаба2\LabsShareLibrary\obj\Debug\net8.0\LabsShareLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidor\OneDrive\Рабочий стол\Лаба2\LabsShareLibrary\obj\Debug\net8.0\LabsShareLibrary.AssemblyInfoInputs.cache
+C:\Users\sidor\OneDrive\Рабочий стол\Лаба2\LabsShareLibrary\obj\Debug\net8.0\LabsShareLibrary.AssemblyInfo.cs
+C:\Users\sidor\OneDrive\Рабочий стол\Лаба2\LabsShareLibrary\obj\Debug\net8.0\LabsShareLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sidor\OneDrive\Рабочий стол\Лаба2\LabsShareLibrary\obj\Debug\net8.0\LabsShareLibrary.dll
+C:\Users\sidor\OneDrive\Рабочий стол\Лаба2\LabsShareLibrary\obj\Debug\net8.0\refint\LabsShareLibrary.dll
+C:\Users\sidor\OneDrive\Рабочий стол\Лаба2\LabsShareLibrary\obj\Debug\net8.0\LabsShareLibrary.pdb
+C:\Users\sidor\OneDrive\Рабочий стол\Лаба2\LabsShareLibrary\obj\Debug\net8.0\ref\LabsShareLibrary.dll

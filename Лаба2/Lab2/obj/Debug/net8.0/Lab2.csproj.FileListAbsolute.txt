@@ -1,0 +1,54 @@
+C:\Users\sidor\OneDrive\Рабочий стол\Илена Дмитриевна\Lab2\bin\Debug\net8.0\Lab2.exe
+C:\Users\sidor\OneDrive\Рабочий стол\Илена Дмитриевна\Lab2\bin\Debug\net8.0\Lab2.deps.json
+C:\Users\sidor\OneDrive\Рабочий стол\Илена Дмитриевна\Lab2\bin\Debug\net8.0\Lab2.runtimeconfig.json
+C:\Users\sidor\OneDrive\Рабочий стол\Илена Дмитриевна\Lab2\bin\Debug\net8.0\Lab2.dll
+C:\Users\sidor\OneDrive\Рабочий стол\Илена Дмитриевна\Lab2\bin\Debug\net8.0\Lab2.pdb
+C:\Users\sidor\OneDrive\Рабочий стол\Илена Дмитриевна\Lab2\bin\Debug\net8.0\LabsShareLibrary.dll
+C:\Users\sidor\OneDrive\Рабочий стол\Илена Дмитриевна\Lab2\bin\Debug\net8.0\LabsShareLibrary.pdb
+C:\Users\sidor\OneDrive\Рабочий стол\Илена Дмитриевна\Lab2\obj\Debug\net8.0\Lab2.csproj.AssemblyReference.cache
+C:\Users\sidor\OneDrive\Рабочий стол\Илена Дмитриевна\Lab2\obj\Debug\net8.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidor\OneDrive\Рабочий стол\Илена Дмитриевна\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfoInputs.cache
+C:\Users\sidor\OneDrive\Рабочий стол\Илена Дмитриевна\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfo.cs
+C:\Users\sidor\OneDrive\Рабочий стол\Илена Дмитриевна\Lab2\obj\Debug\net8.0\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\sidor\OneDrive\Рабочий стол\Илена Дмитриевна\Lab2\obj\Debug\net8.0\Lab2.csproj.Up2Date
+C:\Users\sidor\OneDrive\Рабочий стол\Илена Дмитриевна\Lab2\obj\Debug\net8.0\Lab2.dll
+C:\Users\sidor\OneDrive\Рабочий стол\Илена Дмитриевна\Lab2\obj\Debug\net8.0\refint\Lab2.dll
+C:\Users\sidor\OneDrive\Рабочий стол\Илена Дмитриевна\Lab2\obj\Debug\net8.0\Lab2.pdb
+C:\Users\sidor\OneDrive\Рабочий стол\Илена Дмитриевна\Lab2\obj\Debug\net8.0\Lab2.genruntimeconfig.cache
+C:\Users\sidor\OneDrive\Рабочий стол\Илена Дмитриевна\Lab2\obj\Debug\net8.0\ref\Lab2.dll
+C:\Users\sidor\OneDrive\Рабочий стол\Елена Дмитриевна\Lab2\bin\Debug\net8.0\Lab2.exe
+C:\Users\sidor\OneDrive\Рабочий стол\Елена Дмитриевна\Lab2\bin\Debug\net8.0\Lab2.deps.json
+C:\Users\sidor\OneDrive\Рабочий стол\Елена Дмитриевна\Lab2\bin\Debug\net8.0\Lab2.runtimeconfig.json
+C:\Users\sidor\OneDrive\Рабочий стол\Елена Дмитриевна\Lab2\bin\Debug\net8.0\Lab2.dll
+C:\Users\sidor\OneDrive\Рабочий стол\Елена Дмитриевна\Lab2\bin\Debug\net8.0\Lab2.pdb
+C:\Users\sidor\OneDrive\Рабочий стол\Елена Дмитриевна\Lab2\bin\Debug\net8.0\LabsShareLibrary.dll
+C:\Users\sidor\OneDrive\Рабочий стол\Елена Дмитриевна\Lab2\bin\Debug\net8.0\LabsShareLibrary.pdb
+C:\Users\sidor\OneDrive\Рабочий стол\Елена Дмитриевна\Lab2\obj\Debug\net8.0\Lab2.csproj.AssemblyReference.cache
+C:\Users\sidor\OneDrive\Рабочий стол\Елена Дмитриевна\Lab2\obj\Debug\net8.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidor\OneDrive\Рабочий стол\Елена Дмитриевна\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfoInputs.cache
+C:\Users\sidor\OneDrive\Рабочий стол\Елена Дмитриевна\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfo.cs
+C:\Users\sidor\OneDrive\Рабочий стол\Елена Дмитриевна\Lab2\obj\Debug\net8.0\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\sidor\OneDrive\Рабочий стол\Елена Дмитриевна\Lab2\obj\Debug\net8.0\Lab2.csproj.Up2Date
+C:\Users\sidor\OneDrive\Рабочий стол\Елена Дмитриевна\Lab2\obj\Debug\net8.0\Lab2.dll
+C:\Users\sidor\OneDrive\Рабочий стол\Елена Дмитриевна\Lab2\obj\Debug\net8.0\refint\Lab2.dll
+C:\Users\sidor\OneDrive\Рабочий стол\Елена Дмитриевна\Lab2\obj\Debug\net8.0\Lab2.pdb
+C:\Users\sidor\OneDrive\Рабочий стол\Елена Дмитриевна\Lab2\obj\Debug\net8.0\Lab2.genruntimeconfig.cache
+C:\Users\sidor\OneDrive\Рабочий стол\Елена Дмитриевна\Lab2\obj\Debug\net8.0\ref\Lab2.dll
+C:\Users\sidor\OneDrive\Рабочий стол\Лаба2\Lab2\bin\Debug\net8.0\Lab2.exe
+C:\Users\sidor\OneDrive\Рабочий стол\Лаба2\Lab2\bin\Debug\net8.0\Lab2.deps.json
+C:\Users\sidor\OneDrive\Рабочий стол\Лаба2\Lab2\bin\Debug\net8.0\Lab2.runtimeconfig.json
+C:\Users\sidor\OneDrive\Рабочий стол\Лаба2\Lab2\bin\Debug\net8.0\Lab2.dll
+C:\Users\sidor\OneDrive\Рабочий стол\Лаба2\Lab2\bin\Debug\net8.0\Lab2.pdb
+C:\Users\sidor\OneDrive\Рабочий стол\Лаба2\Lab2\bin\Debug\net8.0\LabsShareLibrary.dll
+C:\Users\sidor\OneDrive\Рабочий стол\Лаба2\Lab2\bin\Debug\net8.0\LabsShareLibrary.pdb
+C:\Users\sidor\OneDrive\Рабочий стол\Лаба2\Lab2\obj\Debug\net8.0\Lab2.csproj.AssemblyReference.cache
+C:\Users\sidor\OneDrive\Рабочий стол\Лаба2\Lab2\obj\Debug\net8.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidor\OneDrive\Рабочий стол\Лаба2\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfoInputs.cache
+C:\Users\sidor\OneDrive\Рабочий стол\Лаба2\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfo.cs
+C:\Users\sidor\OneDrive\Рабочий стол\Лаба2\Lab2\obj\Debug\net8.0\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\sidor\OneDrive\Рабочий стол\Лаба2\Lab2\obj\Debug\net8.0\Lab2.csproj.Up2Date
+C:\Users\sidor\OneDrive\Рабочий стол\Лаба2\Lab2\obj\Debug\net8.0\Lab2.dll
+C:\Users\sidor\OneDrive\Рабочий стол\Лаба2\Lab2\obj\Debug\net8.0\refint\Lab2.dll
+C:\Users\sidor\OneDrive\Рабочий стол\Лаба2\Lab2\obj\Debug\net8.0\Lab2.pdb
+C:\Users\sidor\OneDrive\Рабочий стол\Лаба2\Lab2\obj\Debug\net8.0\Lab2.genruntimeconfig.cache
+C:\Users\sidor\OneDrive\Рабочий стол\Лаба2\Lab2\obj\Debug\net8.0\ref\Lab2.dll
